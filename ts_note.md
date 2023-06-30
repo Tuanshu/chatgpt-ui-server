@@ -1,0 +1,1 @@
+pip install djangorestframework for rest_framework 
